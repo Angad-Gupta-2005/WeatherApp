@@ -51,4 +51,7 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+
+//    Lottie animation dependency
+    implementation("com.airbnb.android:lottie:6.5.2")
 }
